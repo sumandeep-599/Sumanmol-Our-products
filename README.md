@@ -181,7 +181,8 @@ button {
             <h2>Our Categories</h2>
             
             <div class="category-item">
-                <img src="https://m.media-amazon.com/images/I/61URE8whVAL._AC_UY1000_.jpg" alt="Mangalsutra">
+                <img src="https://pin.it/1JSK9MFCu.jpg" 
+  alt="Mangalsutra">
                 <span>Mangalsutra</span>
             </div>
             
